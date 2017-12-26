@@ -32,5 +32,8 @@ _可以根据版本迭代，置换过期资源。_
 + save：保存缓存与startup相对应
 
 needUpdate()进来直接执行一遍
+
+
+
 *That is all!*
 
